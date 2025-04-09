@@ -1,8 +1,7 @@
 # architect-dev
 [Microservice fundamentals](https://learning.oreilly.com/live-events/microservice-fundamentals/0636920054839/)
-[https://learning.oreilly.com/live-events/microservices-bootcamp/0642572005573/](Microservices Bootcamp)
+[Microservices Bootcamp](https://learning.oreilly.com/live-events/microservices-bootcamp/0642572005573/)
 [Microservices Application Decomposition](https://learning.oreilly.com/live-events/microservices-application-decomposition/0636920446163/)
-
 [Patterns for Building Resilient Microservices](https://learning.oreilly.com/live-events/patterns-for-building-resilient-microservices/0636920089763/)
 [Data Design for Microservices](https://learning.oreilly.com/live-events/data-design-for-microservices/0642572015673/)
 [Microservice Security](https://learning.oreilly.com/live-events/microservice-security/0636920070932/)
